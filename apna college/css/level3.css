@@ -1,0 +1,15 @@
+div{
+    height: 100px;
+}
+div{
+    width: 600px;
+    background-color: lightblue;
+    border-width: 5px;
+    border-style: solid;
+    border-color:gray;
+    border-radius: 10px 100px /120px ;
+}
+
+h1{
+    border: 2px dashed red;
+}
